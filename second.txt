@@ -1,3 +1,5 @@
 second text
 
 Directly updated from server
+
+This is file second.txt
